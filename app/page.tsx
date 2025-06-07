@@ -725,15 +725,15 @@ export default function TechNovaWebsite() {
               <div className="space-y-3 text-gray-400">
                 <div className="flex items-center">
                   <Mail className="w-4 h-4 mr-3" />
-                  <span>hello@technovasystems.com</span>
+                  <span>udit@grey8tech.com</span>
                 </div>
                 <div className="flex items-center">
                   <Phone className="w-4 h-4 mr-3" />
-                  <span>+1 (555) 123-4567</span>
+                  <span>+91 (623) 000-9945</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="w-4 h-4 mr-3" />
-                  <span>San Francisco, New York, London</span>
+                  <span>Shimla, Himachal Pradesh, India</span>
                 </div>
               </div>
             </div>
