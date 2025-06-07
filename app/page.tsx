@@ -60,7 +60,7 @@ export default function TechNovaWebsite() {
             className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent"
             whileHover={{ scale: 1.05 }}
           >
-            TechNova Systems
+            Grey8 Tech Solutions
           </motion.div>
           <div className="hidden md:flex space-x-8">
             {["Services", "Work", "About", "Contact"].map((item) => (
@@ -170,7 +170,7 @@ export default function TechNovaWebsite() {
               Who We Are
             </h2>
             <p className="text-xl text-gray-300 max-w-4xl mx-auto">
-              TechNova Systems is a product-first engineering company that transforms ambitious ideas into
+              Grey8 Tech Solutions is a product-first engineering company that transforms ambitious ideas into
               market-leading digital platforms. Our global team of senior engineers combines deep technical expertise
               with strategic thinking to deliver solutions that scale.
             </p>
@@ -651,7 +651,7 @@ export default function TechNovaWebsite() {
           <div className="grid md:grid-cols-4 gap-8 mb-12">
             <div>
               <div className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent mb-4">
-                TechNova Systems
+                Grey8 Tech Solutions
               </div>
               <p className="text-gray-400 mb-6">Future-proof engineering for digital-first businesses.</p>
               <div className="flex space-x-4">
@@ -740,7 +740,7 @@ export default function TechNovaWebsite() {
           </div>
 
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 TechNova Systems. All rights reserved.</p>
+            <p>&copy; 2024 Grey8 Tech Solutions. All rights reserved.</p>
           </div>
         </div>
       </footer>

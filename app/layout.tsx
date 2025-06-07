@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space-grotesk" })
 
 export const metadata: Metadata = {
-  title: "TechNova Systems - Future-Proof Engineering for Digital-First Businesses",
+  title: "Grey8 Tech Solutions - Future-Proof Engineering for Digital-First Businesses",
   description:
     "Transform your business with cutting-edge technology. We provide digital transformation, full-stack development, cloud engineering, and AI solutions for enterprise clients and high-growth startups.",
   keywords:
