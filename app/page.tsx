@@ -651,9 +651,9 @@ export default function TechNovaWebsite() {
           <div className="grid md:grid-cols-4 gap-8 mb-12">
             <div>
               <div className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent mb-4">
-                Grey8 Tech Solutions
+                From the CEO & Founder - Udit Chauhan
               </div>
-              <p className="text-gray-400 mb-6">Future-proof engineering for digital-first businesses.</p>
+              <p className="text-gray-400 mb-6">At Grey8 Tech, we don’t just build tech — we build the future. Whether it’s cloud, code, or creative, we’ve got it covered.</p>
               <div className="flex space-x-4">
                 {[Linkedin, Twitter, Github].map((Icon, index) => (
                   <motion.a
@@ -733,7 +733,7 @@ export default function TechNovaWebsite() {
                 </div>
                 <div className="flex items-center">
                   <MapPin className="w-4 h-4 mr-3" />
-                  <span>Shimla, Himachal Pradesh, India</span>
+                  <span>Chandigarh, India</span>
                 </div>
               </div>
             </div>
