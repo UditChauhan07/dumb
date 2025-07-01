@@ -500,7 +500,7 @@ export default function Home() {
           <Button
             size="lg"
             className="bg-white text-gray-900 hover:bg-gray-100 hover:scale-105 transition-all duration-300"
-            onClick={() => window.open("https://calendly.com/grey8tech", "_blank")}
+            onClick={() => window.open("https://calendly.com/grey8tech-info", "_blank")}
           >
             Get Started Today
             <ChevronRight className="ml-2 h-4 w-4" />
