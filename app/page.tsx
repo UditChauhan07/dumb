@@ -544,7 +544,7 @@ export default function Home() {
                     </div>
                     <div>
                       <p className="text-gray-500 text-sm">Email</p>
-                      <p className="text-gray-800 font-medium">support@grey8tech.com</p>
+                      <p className="text-gray-800 font-medium">info@grey8tech.com</p>
                     </div>
                   </div>
                   <div className="flex items-start">
